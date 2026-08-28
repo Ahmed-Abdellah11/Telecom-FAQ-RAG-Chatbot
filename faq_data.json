@@ -1,0 +1,107 @@
+[
+  {
+    "category": "Internet Packages",
+    "question_en": "What are the available WE internet packages?",
+    "answer_en": "WE offers ADSL, Fiber Optic, and 4G/5G mobile data packages. Fiber packages start from 30 Mbps up to 200 Mbps. Mobile data packages range from 2GB to unlimited monthly plans.",
+    "question_ar": "ايه باقات الانترنت المتاحة من WE؟",
+    "answer_ar": "WE بتقدم باقات ADSL، Fiber Optic، وباقات موبايل داتا 4G/5G. باقات الفايبر بتبدأ من 30 ميجا لحد 200 ميجا. وباقات الموبايل داتا من 2 جيجا لحد باقات لامحدودة شهرياً."
+  },
+  {
+    "category": "Internet Packages",
+    "question_en": "How can I upgrade my internet speed?",
+    "answer_en": "You can upgrade your internet speed by calling 111 from your WE line, visiting the nearest WE branch, or using the My WE mobile application to change your package.",
+    "question_ar": "ازاي ارفع سرعة الانترنت بتاعي؟",
+    "answer_ar": "تقدر ترفع سرعة الانترنت عن طريق الاتصال بـ 111 من خط WE، او زيارة اقرب فرع WE، او استخدام تطبيق My WE على الموبايل عشان تغير الباقة."
+  },
+  {
+    "category": "Recharge",
+    "question_en": "How do I recharge my WE mobile balance?",
+    "answer_en": "Dial *555* followed by the recharge card number and #, then press call. You can also recharge using the My WE app, Fawry, or any authorized payment point.",
+    "question_ar": "ازاي اشحن رصيد WE؟",
+    "answer_ar": "اتصل بـ *555* ورقم كارت الشحن وبعدين #. تقدر كمان تشحن من تطبيق My WE، او من فوري، او اي نقطة دفع معتمدة."
+  },
+  {
+    "category": "Recharge",
+    "question_en": "What is the code to check my remaining balance?",
+    "answer_en": "Dial *550# to check your remaining mobile balance and active packages. You will receive an SMS with the details immediately.",
+    "question_ar": "كود معرفة الرصيد المتبقي ايه؟",
+    "answer_ar": "اتصل بـ *550# عشان تعرف الرصيد المتبقي والباقات المفعلة. هتوصلك رسالة بالتفاصيل على طول."
+  },
+  {
+    "category": "Billing",
+    "question_en": "How can I pay my WE bill?",
+    "answer_en": "You can pay your bill through the My WE app, WE website, Fawry, Bee, Masary, bank transfer, or at any WE branch. Online payment accepts Visa, Mastercard, and Meeza.",
+    "question_ar": "ازاي ادفع فاتورة WE؟",
+    "answer_ar": "تقدر تدفع الفاتورة من تطبيق My WE، موقع WE، فوري، بي، مصرى، تحويل بنكي، او اي فرع WE. الدفع الالكتروني بيقبل فيزا، ماستركارد، وميزة."
+  },
+  {
+    "category": "Billing",
+    "question_en": "When is my bill due date?",
+    "answer_en": "Your bill is due 15 days from the invoice date. Late payments may result in service suspension. You can check the exact due date on the My WE app.",
+    "question_ar": "موعد استحقاق الفاتورة امتى؟",
+    "answer_ar": "الفاتورة لازم تتدفع في خلال 15 يوم من تاريخ اصدارها. التأخير ممكن يؤدي لوقف الخدمة. تقدر تشوف التاريخ بالظبط من تطبيق My WE."
+  },
+  {
+    "category": "Technical Issues",
+    "question_en": "My internet is very slow. What should I do?",
+    "answer_en": "First, restart your router and wait 5 minutes. Check if the issue affects all devices. If the problem persists, call 111 to report a technical issue or use the My WE app to run a line diagnostic.",
+    "question_ar": "الانترنت بطيء جداً، اعمل ايه؟",
+    "answer_ar": "اول حاجة، اعمل ريستارت للراوتر واستنى 5 دقايق. اتأكد لو المشكلة في كل الاجهزة ولا جهاز واحد. لو المشكلة لسه موجودة، اتصل بـ 111 عشان تبلغ عن عطل فني، او استخدم تطبيق My WE لتشغيل فحص الخط."
+  },
+  {
+    "category": "Technical Issues",
+    "question_en": "How do I reset my router to factory settings?",
+    "answer_en": "Press and hold the reset button on the back of the router for 10 seconds until the lights flash. Note that this will erase custom settings like Wi-Fi name and password.",
+    "question_ar": "ازاي ارجع اعدادات الراوتر للوضع الافتراضي؟",
+    "answer_ar": "اضغط على زر الريستارت في ضهر الراوتر لمدة 10 ثواني لحد ما الاضواء تفلش. خد بالك ان ده هيمسح الاعدادات المخصصة زي اسم الواي فاي والباسورد."
+  },
+  {
+    "category": "SIM Services",
+    "question_en": "How can I replace my lost or damaged SIM card?",
+    "answer_en": "Visit the nearest WE branch with your national ID. The replacement SIM costs a small fee. Your number will be transferred to the new SIM within a few hours.",
+    "question_ar": "ازاي استبدل شريحتي المفقودة او التالفة؟",
+    "answer_ar": "زور اقرب فرع WE مع بطاقة الرقم القومي. استبدال الشريحة بيكلف رسوم بسيطة. رقمك هيتنقل للشريحة الجديدة في خلال ساعات قليلة."
+  },
+  {
+    "category": "SIM Services",
+    "question_en": "How do I activate mobile roaming?",
+    "answer_en": "Roaming is activated automatically on most lines. To ensure service abroad, dial *999# before traveling or activate it from the My WE app under 'Services' -> 'Roaming'.",
+    "question_ar": "ازاي افعل خدمة التجوال؟",
+    "answer_ar": "التجوال بيتفعل تلقائياً في معظم الخطوط. عشان تتأكد من الخدمة بره مصر، اتصل بـ *999# قبل السفر، او فعلها من تطبيق My WE من 'خدمات' -> 'التجوال'."
+  },
+  {
+    "category": "Common FAQs",
+    "question_en": "What is the customer service number for WE?",
+    "answer_en": "You can reach WE customer service by dialing 111 from any WE line, or 02-25292888 from any other network. The call center is available 24/7.",
+    "question_ar": "رقم خدمة العملاء لـ WE ايه؟",
+    "answer_ar": "تقدر تتواصل مع خدمة العملاء على 111 من اي خط WE، او 02-25292888 من اي شبكة تانية. مركز الاتصال شغال 24 ساعة طول الاسبوع."
+  },
+  {
+    "category": "Common FAQs",
+    "question_en": "How can I check network coverage in my area?",
+    "answer_en": "Use the coverage map on the WE website or the My WE app. Enter your address to see available services (ADSL, Fiber, or 4G/5G) in your location.",
+    "question_ar": "ازاي اعرف التغطية في منطقتي؟",
+    "answer_ar": "استخدم خريطة التغطية على موقع WE او تطبيق My WE. ادخل عنوانك عشان تشوف الخدمات المتاحة (ADSL، Fiber، او 4G/5G) في منطقتك."
+  },
+  {
+    "category": "Common FAQs",
+    "question_en": "How do I port my number to WE from another operator?",
+    "answer_en": "Visit a WE branch with your national ID and request number portability. The process takes 24-48 hours and your old SIM will remain active until the transfer is complete.",
+    "question_ar": "ازاي انقل رقمي لـ WE من شركة تانية؟",
+    "answer_ar": "زور اي فرع WE مع بطاقة الرقم القومي واطلب خدمة نقل الرقم. العملية بتاخد 24-48 ساعة، وشريحتك القديمة هتفضل شغالة لحد ما الانتقال يكتمل."
+  },
+  {
+    "category": "Billing",
+    "question_en": "Can I get a detailed call log or usage report?",
+    "answer_en": "Yes, you can view your detailed usage and call logs for the last 3 months through the My WE app under 'Usage History' or request it from any WE branch.",
+    "question_ar": "ممكن احصل على تفاصيل المكالمات او استهلاكي؟",
+    "answer_ar": "ايوه، تقدر تشوف تفاصيل الاستهلاك والمكالمات لآخر 3 شهور من تطبيق My WE من 'تاريخ الاستخدام'، او تطلبها من اي فرع WE."
+  },
+  {
+    "category": "Internet Packages",
+    "question_en": "Is there a fair usage policy on unlimited internet packages?",
+    "answer_en": "Yes, unlimited packages have a fair usage policy. After consuming a specific data threshold, your speed may be reduced to 1 Mbps for the remainder of the billing cycle.",
+    "question_ar": "هل فيه سياسة استخدام عادل على باقات الانترنت اللانهائي؟",
+    "answer_ar": "ايوه، باقات الانترنت اللانهائي ليها سياسة استخدام عادل. بعد استهلاك حد معين من البيانات، السرعة ممكن تقل لـ 1 ميجا لحد نهاية الدورة."
+  }
+]

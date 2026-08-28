@@ -1,0 +1,7 @@
+# Lightweight requirements — NO PyTorch / Transformers / GPU needed
+streamlit>=1.30
+langchain>=0.2
+langchain-core
+langchain-chroma
+chromadb==1.5.9
+huggingface-hub>=0.24
