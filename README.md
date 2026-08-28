@@ -96,4 +96,4 @@ Common issues it catches:
 
 ## Author
 
-Ahmed — AI Engineer
+Ahmed Abdellah — AI Engineer
